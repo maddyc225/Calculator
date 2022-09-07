@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button{
+    padding: 30px;
+    margin: 4px 3px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: larger;
+    width:99px;
+}
+.container{
+    
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+
+    
+}
+.row input{
+    padding: 20px 21px;
+  ;  margin: 20px;
+    font-size:xx-large;
+    border-radius: 7px;
+}
